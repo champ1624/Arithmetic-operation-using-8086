@@ -57,15 +57,20 @@ END
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
-|                         |                          |
+|     1200h	1204h
+1201h	1205h
+1202h	1206h
+1203h	-                    |                          |
 
 #### Manual Calculations
 
 (Add your calculation here)
+![WhatsApp Image 2025-09-08 at 22 17 17_84e8ed2d](https://github.com/user-attachments/assets/2f3f66a6-4cb6-4069-893a-f8313c378715)
 
 ---
 
 ## OUTPUT IMAGE FROM MASM SOFTWARE
+![WhatsApp Image 2025-09-08 at 21 23 43_1f09ed5b](https://github.com/user-attachments/assets/2f824618-1c36-464c-b422-819990354b57)
 
 ## 2. SUBTRACTION
 
@@ -90,16 +95,21 @@ END
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
-|                         |                          |
+| 1200h	1204h
+1201h	1205h
+1202h	1206h
+1203h	-              
 
 #### Manual Calculations
 
 (Add your calculation here)
+![WhatsApp Image 2025-09-08 at 22 17 17_7e1928b3](https://github.com/user-attachments/assets/b359a974-87f5-451a-bf4c-82e374ee1fe9)
 
 ---
 
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
+![WhatsApp Image 2025-09-08 at 21 25 40_7827f7a9](https://github.com/user-attachments/assets/aee3de9a-cdcd-4c8c-8e65-ce89e74c916f)
 
 ## 3. MULTIPLICATION
 
@@ -139,15 +149,20 @@ END
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
-|                         |                          |
+|  1200h	1204h
+1201h	1205h
+1202h	1206h
+1203h	1207h
 
 #### Manual Calculations
 
 (Add your calculation here)
+![WhatsApp Image 2025-09-08 at 22 17 16_9a264b33](https://github.com/user-attachments/assets/b01c1fcf-89d4-4dc9-822d-72f1d60958fa)
 
 ---
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
+![WhatsApp Image 2025-09-08 at 21 27 31_49c5a2a8](https://github.com/user-attachments/assets/a062d2f3-e849-403a-a597-f1eeff0ab35f)
 
 ## 4. DIVISION
 
@@ -184,14 +199,19 @@ END
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
-|                         |                          |
+|   1200h	1204h
+1201h	1205h
+1202h	1206h
+1203h	1207h                      |                          |
 
 #### Manual Calculations
 
 (Add your calculation here)
+![WhatsApp Image 2025-09-08 at 22 17 16_393240ac](https://github.com/user-attachments/assets/57183eb4-2fe1-443d-9547-8599644367a9)
 
 ---
 ## OUTPUT FROM MASM SOFTWARE
+![WhatsApp Image 2025-09-08 at 21 31 20_6b327c3b](https://github.com/user-attachments/assets/8d9e9647-3b28-4c13-a612-f811ed4d952d)
 
 
 
